@@ -6,7 +6,7 @@ Translated manual of MSX-BASIC Kun Turbo (W.I.P.)
   - Chapter 1: [Introduction](md/MSX-BASIC_Kun_Part_1.md#1-introduction)
   - Chapter 2: [Differences between "MSX-BASIC Kun", "MSX-BASIC Kun Plus" and "MSX-BASIC Kun Turbo"](md/MSX-BASIC_Kun_Part_1.md#2-differences-between-msx-basic-kun-msx-basic-kun-plus-and-msx-basic-kun-turbo)
   - Chapter 3: [How to use "MSX-BASIC Kun Turbo"](md/MSX-BASIC_Kun_Part_1.md#3-how-to-use-msx-basic-kun-turbo)
-  - Chapter 4: [Important point](md/MSX-BASIC_Kun_Part_1.md#4-important-point)
+  - Chapter 4: [Important notes](md/MSX-BASIC_Kun_Part_1.md#4-important-notes)
 - [About "MSX-BASIC Kun Turbo" Part 2 (Command)](md/MSX-BASIC_Kun_Part_2.md)  
   - Chapter 5: [Instructions with a different grammar](md/MSX-BASIC_Kun_Part_2.md#5-instructions-with-a-different-grammar)   
   - Chapter 6: [Instructions that cannot be used in "MSX-BASIC Kun Turbo"](md/MSX-BASIC_Kun_Part_2.md#6-instructions-that-cannot-be-used-in-msx-basic-kun-turbo)  
@@ -31,6 +31,6 @@ These are the original manual files of MSX-BASIC Kun Turbo found on the takeru r
 - [About "MSX-BASIC Kun Turbo" Part 1 (Basic)](txt/basicn1.txt)
 - [About "MSX-BASIC Kun Turbo" Part 2 (Command)](txt/basicn2.txt)
 - [About "MSX-BASIC Kun Turbo" Part 3 (Application)](txt/basicn3.txt)
-- [About the sample program](txt/sample.txt)
+- [About the sample programs](txt/sample.txt)
 
 

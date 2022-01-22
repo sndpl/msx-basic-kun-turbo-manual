@@ -1,7 +1,7 @@
 # ☆ ★ ☆ About the sample programs ☆ ★ ☆
 
 
-This manual explains how to use the sample program that comes with "MSX-BASIC Kun Turbo". For the basic usage, please refer to "[About MSX-BASIC Kun Turbo Part 1 (Basic](MSX%20Basic%20Kun%20Part%201.md))". For information on how to use the instructions, please refer to "[About MSX-BASIC Kun Turbo Part 2 (Orders)](MSX%20Basic%20Kun%20Part%202.md)".In addition, please refer to "[About MSX-BASIC Kun Turbo Part 3 (Application)](MSX%20Basic%20Kun%20Part%203.md)" for precautions when using "MSX-BASIC Kun Turbo" and advanced usage.
+This manual explains how to use the sample program that comes with "MSX-BASIC Kun Turbo". For the basic usage, please refer to "[About MSX-BASIC Kun Turbo Part 1 (Basic](MSX-BASIC_Kun_Part_1.md)". For information on how to use the instructions, please refer to "[About MSX-BASIC Kun Turbo Part 2 (Orders)](MSX-BASIC_Kun_Part_2.md)".In addition, please refer to "[About MSX-BASIC Kun Turbo Part 3 (Application)](MSX-BASIC_Kun_Part_3.md)" for precautions when using "MSX-BASIC Kun Turbo" and advanced usage.
 
 MSX is a trademark of ASCII.  
 MSX-DOS is a registered trademark of Microsoft Corporation.

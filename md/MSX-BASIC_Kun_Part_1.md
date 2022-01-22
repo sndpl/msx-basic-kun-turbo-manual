@@ -1,9 +1,9 @@
 # ☆ ★ ☆ About "MSX-BASIC Kun Turbo" Part 1 (Basic) ☆ ★ ☆
 
-This manual explains the basic usage of "MSX-BASIC Kun Turbo". For how to use each command, please refer to "About MSX-BASIC Kun Turbo Part 2 (Command Edition)". Please refer to "About MSX-BASIC Kun Turbo Part 3 (Application)" for precautions and advanced usage.
+This manual explains the basic usage of "MSX-BASIC Kun Turbo". For how to use each command, please refer to "[About MSX-BASIC Kun Turbo Part 2 (Command)](MSX-BASIC_Kun_Part_2.md)". Please refer to "[About MSX-BASIC Kun Turbo Part 3 (Application)](MSX-BASIC_Kun_Part_3.md)" for precautions and advanced usage. For how to use the included sample programs, please refer to "[About the sample programs](Sample_Programs.md)".
 
-MSX is a trademark of ASCII.
-MSX-DOS is a registered trademark of Microsoft Corporation
+MSX is a trademark of ASCII.  
+MSX-DOS is a registered trademark of Microsoft Corporation  
 
 ## 1. Introduction
 "MSX-BASIC Kun Turbo" is software for making BASIC programs into machine language. The software that converts a program into machine language in this way is called a "compiler".
@@ -108,7 +108,7 @@ The reason for executing "CALL TURBO ON" again on line 120 is to run fast except
 >
 >If you include it in a subdirectory, don't forget the directory path before the filename.
 
-  ## 4. Important point
+  ## 4. Important notes
 Please note the following when using "MSX-BASIC Kun Turbo".
 
 ### 4.1 ON / OFF cannot be used with multi-statements
