@@ -1,4 +1,4 @@
-# ☆ ★ ☆ About "MSX-BASIC Kun Turbo" Part 2 (command) ☆ ★ ☆
+# ☆ ★ ☆ About "MSX-BASIC Kun Turbo" Part 2 (Command) ☆ ★ ☆
 
 
      This manual explains the instructions for "MSX-BASIC Kun Turbo". For the basic usage, please refer to "About" MSX-BASIC Kun Turbo Part 1 (Basic)". Please refer to "About MSX-BASIC Kun Turbo Part 3 (Application)" for precautions and advanced usage.

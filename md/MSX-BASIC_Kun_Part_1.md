@@ -108,7 +108,7 @@ The reason for executing "CALL TURBO ON" again on line 120 is to run fast except
 >
 >If you include it in a subdirectory, don't forget the directory path before the filename.
 
-  ## 4. important point
+  ## 4. Important point
 Please note the following when using "MSX-BASIC Kun Turbo".
 
 ### 4.1 ON / OFF cannot be used with multi-statements
