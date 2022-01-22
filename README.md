@@ -18,6 +18,11 @@ Translated manual of MSX-BASIC Kun Turbo (W.I.P.)
   11. How to increase the free area  
   12. Internal format of variables  
 - [About the sample programs](md/Sample_Programs.md)
+  - Introduction
+  - Sample A: Maze
+  - Sample B: Quick line
+  - Sample C: Graphic screen character output
+  - Sample D: Mandelbrot
 
 
 ## Original Japanese manual
